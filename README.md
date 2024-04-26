@@ -1,7 +1,9 @@
 ### Snake Game
 
 This is a simple Snake Game implemented in Java using Swing. The game consists of a snake that moves around a board eating food and growing longer. The objective is to avoid colliding with the borders of the board or with the snake's own body.
-![325905577-a43ddcf1-b1cf-4a4d-9807-1080668d743a](https://github.com/pawan1117/Technical-Training-project/assets/155816784/ececb116-e7b6-42ec-9386-b3043b14fea4)
+
+
+![325905577-a43ddcf1-b1cf-4a4d-9807-1080668d743a](https://github.com/pawan1117/Technical-Training-project/assets/155816784/0742f590-7291-461b-bd91-db9e58103fab)
 
 #### How to Play
 - Use the arrow keys to control the direction of the snake: up, down, left, and right.
